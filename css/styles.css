@@ -115,6 +115,14 @@ body{
     width: 25px;
     height: 25px;
     margin-top: 10px;
+    transition: .5s all;
+    -webkit-animation: glow 5s ease-in-out infinite alternate;
+    -moz-animation: glow 5s ease-in-out infinite alternate;
+    animation: glow 5s ease-in-out infinite alternate;
+}
+
+.content img:hover{
+    transform: scale(1.1);
 }
 
 .content a{
