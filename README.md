@@ -4,7 +4,7 @@ Esta web es una mini-landing page que cree para que se pueda conocer mi "trabajo
 
 ## UI:
 <p align="center">
-<img src="https://i.ibb.co/1R1Q1cv/Untitled-Project.gif" alt="Landing Page" border="0">
+<img src="https://i.ibb.co/B3q6CVG/Untitled-Project-1.gif" alt="Untitled-Project-1" border="0">
 </p>
 
 ## Librerias y demas cosas usadas:
