@@ -1,5 +1,9 @@
 # Mini-landing Page:
 
+<p align="center">
+  <a href="https://lgtm.com/projects/g/Sebas1012/me/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/Sebas1012/me.svg?   logo=lgtm&logoWidth=18"/></a>
+</p>
+
 Esta web es una mini-landing page que cree para que se pueda conocer mi "trabajo" y contactar conmigo.
 
 ## UI:
