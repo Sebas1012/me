@@ -4,21 +4,48 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/styles.css">
-    <link rel="shortcut icon" href="./assets/rocket.ico">
-    <title>Me</title>
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
 </head>
 <body>
-    <nav>
-        <p>Logo</p>
-        <ul>
-            <li><a href="">About</a></li>
-            <li><a href="">Projects</a></li>
-            <li><a href="">3</a></li>
-        </ul>
-    </nav>
+    <div id="card">
+        <div id="img-container">
+            <div id="text"> 
+                <div class="text-container" id="head">
+                    <span class="title">Sebastián Henao <span id="emoji"></span></span>
+                    <span id="user">@sebas1012</span><br><br>
+                </div>
+                <div class="text-container">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ab exercitationem maxime veniam, molestiae ratione? Reiciendis itaque error sunt amet 
+                    </p>
+                </div>
+            </div>
+            <div id="image">
+                <img src="./assets/profile.jpg" alt="">
+            </div>
+        </div>
+        <div id="text-container">
+            <div class="sub-container" id="github">
+                <a class="title" href="">GitHub</a>
+                <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="" srcset="">
+            </div>
+            <div class="sub-container" id="gitlab">
+                <a class="title" href="">GitLab</a>
+                <img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="" srcset="">
+            </div>
+            <div class="sub-container" id="linkedin">
+                <a class="title" href="">LinkedIn</a>
+                <img src="" alt="" srcset="https://cdn.svgporn.com/logos/linkedin-icon.svg">
+            </div>
+            <div class="sub-container" id="codewars">
+                <a class="title" href="">Codewars</a>
+                <img src="" alt="" srcset="">
+            </div>
+        </div>
+    </div>
     <!-- Typed JS -->
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-    <script src="./js/type.js"></script>
+    <script src="./js/emojis.js"></script>
 </body>
 </html>
